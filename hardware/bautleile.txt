@@ -1,0 +1,27 @@
+Partlist
+
+Exported from fabisp3.sch at 7/28/11 3:56 PM
+
+EAGLE Version 5.10.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value              Device             Package      Library        Sheet
+
+C1       0.1uF              C-USC1206          C1206        rcl-ez         1
+C2       18pF               C-USC1206          C1206        rcl            1
+C3       10uF               C-USC1206          C1206        rcl            1
+C4       18pF               C-USC1206          C1206        rcl            1
+D1       3.3V               ZENER_DIODESOD123  SOD123       ng             1
+D2       3.3V               ZENER_DIODESOD123  SOD123       ng             1
+IC1      ATTINY24/44/84-SSU ATTINY24/44/84-SSU SOIC14       attiny24_44_84 1
+LED1                        LEDCHIPLED_0805    CHIPLED_0805 led            1
+Q1       12MHz              CRYSTALHC49UP      HC49UP       crystal        1
+R1       49                 R-US_R1206         R1206        rcl-ez         1
+R2       49                 R-US_R1206         R1206        rcl-ez         1
+R3       1K                 R-US_R1206         R1206        rcl-ez         1
+R4       499                R-US_R1206         R1206        rcl            1
+R5       499                R-US_R1206         R1206        rcl            1
+R10      10K                R-US_R1206         R1206        rcl-ez         1
+SJ1      SJFAB              SJFAB              SJFAB        mellis         1
+SJ2                         SJFAB              SJFAB        mellis         1
+U$1      2X3HEADER          2X3HEADER          2X3_SMD      mellis         1
+X2       USB-B-SMD          USB-B-SMD          USB-B-SMD    1_USER         1

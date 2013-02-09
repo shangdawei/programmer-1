@@ -1,0 +1,7 @@
+# EAGLE backup files
+*.?#?
+
+# software binarie
+*.elf
+*.hex
+*.o
